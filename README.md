@@ -21,3 +21,6 @@ add_ace resource.es_extended command.add_principal allow
 
 # enable OneSync with default configuration (required for server-side state awareness)
 onesync legacy true
+
+###############################################################################################
+You can contact me in !Hecti548#7909.

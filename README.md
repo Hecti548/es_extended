@@ -1,6 +1,11 @@
 # es_extended
 Is a version of es_extended legacy of FiveM
 
+# Dependences
+mysql-async
+async
+spawnmanager
+
 Hello, thanks fot download this file.
 This is the configuration for the admin of Es_Extended legacy
 
